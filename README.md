@@ -1,7 +1,8 @@
 # Assignment #5: JavaScript Basics (DOM Manipulation & Events)
 
 **Name:** Aidynuly Makhambet  
-**Group:** IT-2504
+**Group:** IT-2504  
+**Link:** https://aidynulymakhambet.github.io/WEB-Assignment-5/
 
 ---
 
